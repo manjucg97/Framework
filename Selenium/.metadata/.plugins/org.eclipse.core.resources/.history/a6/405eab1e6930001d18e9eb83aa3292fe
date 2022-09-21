@@ -1,0 +1,15 @@
+package genric_script;
+
+import org.testng.annotations.Test;
+
+public class Generic_script1 
+{
+
+ @Test
+ public void open_apln()
+	 {
+		System.setProperty("webdriver.chrome.driver", "./software/chromedriver.exe");
+
+	 }
+ }
+

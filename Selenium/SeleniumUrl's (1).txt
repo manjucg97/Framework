@@ -1,0 +1,13 @@
+Drag and drop  => http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
+
+double click and right click  =>   http://demo.guru99.com/test/simple_context_menu.html
+
+alert and confirmation	=>	http://demo.guru99.com/test/delete_customer.php
+
+
+mysql DB
+https://dev.mysql.com/downloads/windows/installer/8.0.html
+
+mysql connector
+http://www.java2s.com/Code/Jar/m/Downloadmysqlconnectorjar.htm
+
